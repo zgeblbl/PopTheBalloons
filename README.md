@@ -5,8 +5,8 @@
 Welcome to the Pop the Balloons game repository! This project is a simple Unity made game.
 
 ## Gameplay
-//
 
+https://github.com/zgeblbl/PopTheBalloons/assets/117914215/1ec887cc-145f-4901-a486-03496073339d
 
 
 ## Features
