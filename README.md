@@ -24,4 +24,4 @@ https://github.com/zgeblbl/PopTheBalloons/assets/117914215/1ec887cc-145f-4901-a4
  ![image](https://github.com/zgeblbl/PopTheBalloons/assets/117914215/f0925f6d-b5b5-4bd4-a87a-1ce0e9263306)
 
 - The game currently has 2 levels, more levels may be created with perhaps introducing different balloon types etc.
-- 
+  
